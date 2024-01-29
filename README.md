@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @b-suthar
+- 👋 Hi, I’m @bhavesh_suthar
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
